@@ -15,6 +15,12 @@ As AI becomes increasingly capable of discovering and shaping these pathways, Fu
 
 This document outlines the motivation, conceptual foundations, research directions, open problems, and long-term significance of Function Tunnel AI.
 
+---
+
+![./figures/Fig-000-Why-Function-Tunnel-AI.png](./figures/Fig-000-Why-Function-Tunnel-AI.png)
+
+---
+
 ## 1. Introduction
 
 Many modern AI systems are designed to answer questions, generate content, solve optimization problems, or perform specific tasks.

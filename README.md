@@ -1,7 +1,10 @@
 # Function Tunnel AI
+
 ## A Research Outlook for Economy, Society, and Civilization
 
 > Understanding, Generating, Governing, and Defending the Pathways Through Which Complex Systems Evolve.
+
+---
 
 ## Overview
 
@@ -15,26 +18,28 @@ Instead, they frequently converge into a limited number of feasible, reinforced,
 
 This repository refers to such pathways as:
 
-## Function Tunnels
+# Function Tunnels
 
 Examples appear throughout nature and society:
 
-rivers,
-lightning channels,
-crystal growth,
-ecological migration routes,
-neural learning pathways,
-educational systems,
-technological ecosystems,
-economic infrastructures,
-social influence networks,
-political mobilization systems,
-military escalation pathways,
-civilization-scale development processes.
+* rivers,
+* lightning channels,
+* crystal growth,
+* ecological migration routes,
+* neural learning pathways,
+* educational systems,
+* technological ecosystems,
+* economic infrastructures,
+* social influence networks,
+* political mobilization systems,
+* military escalation pathways,
+* civilization-scale development processes.
 
 As Artificial Intelligence becomes increasingly capable of discovering and shaping these pathways, understanding Function Tunnels may become one of the most important research challenges of the twenty-first century.
 
-## Core Thesis
+---
+
+# Core Thesis
 
 The central hypothesis of this project is:
 
@@ -42,23 +47,27 @@ The central hypothesis of this project is:
 
 These pathways emerge when:
 
-    Random Exploration
-    +
-    Asymmetry
-    +
-    Feedback
-    +
-    Resource Flow
-    +
-    Historical Accumulation
-    =
-    Function Tunnel
+```text
+Random Exploration
++
+Asymmetry
++
+Feedback
++
+Resource Flow
++
+Historical Accumulation
+=
+Function Tunnel
+```
 
 Function Tunnels are therefore not limited to technology or human society.
 
 They are structural phenomena that appear across many classes of complex systems.
 
-## Why This Research Matters
+---
+
+# Why This Research Matters
 
 Historically, Function Tunnels emerged gradually.
 
@@ -68,12 +77,12 @@ Artificial Intelligence changes this situation.
 
 Future AI systems may become capable of:
 
-discovering hidden tunnels,
-predicting emerging tunnels,
-generating new tunnels,
-optimizing tunnel structures,
-governing harmful tunnels,
-defending against tunnel hijacking.
+* discovering hidden tunnels,
+* predicting emerging tunnels,
+* generating new tunnels,
+* optimizing tunnel structures,
+* governing harmful tunnels,
+* defending against tunnel hijacking.
 
 This capability introduces both extraordinary opportunities and extraordinary risks.
 
@@ -85,7 +94,9 @@ The deeper question becomes:
 
 > Which pathways will AI help create, reinforce, optimize, or control?
 
-## Core Research Questions
+---
+
+# Core Research Questions
 
 Function Tunnel AI investigates several fundamental questions.
 
@@ -121,7 +132,9 @@ How can societies resist tunnel hijacking?
 
 What role will Function Tunnel AI play in the future development of economy, society, and civilization?
 
-## Function Tunnel Neutrality Principle
+---
+
+# Function Tunnel Neutrality Principle
 
 One of the most important principles of this project is:
 
@@ -131,54 +144,60 @@ The existence of a Function Tunnel does not, by itself, imply either benefit or 
 
 Function Tunnels exist throughout:
 
-nature,
-biology,
-cognition,
-education,
-economics,
-technology,
-politics,
-civilization.
+* nature,
+* biology,
+* cognition,
+* education,
+* economics,
+* technology,
+* politics,
+* civilization.
 
 Their significance depends upon:
 
-objectives,
-governance,
-transparency,
-reversibility,
-societal consequences.
+* objectives,
+* governance,
+* transparency,
+* reversibility,
+* societal consequences.
 
 The central challenge is therefore not whether Function Tunnels exist.
 
 The challenge is understanding which Function Tunnels contribute positively to individuals, societies, and civilizations.
 
-## Repository Structure
+---
 
-    docs/
-    
-    ├── 001-FUNCTION-TUNNEL-AI.md
-    ├── 002-WHY-FUNCTION-TUNNELS.md
-    ├── 003-FUNCTION-TUNNEL-NEUTRALITY-PRINCIPLE.md
-    ├── 004-FUNCTION-TUNNEL-TAXONOMY.md
-    ├── 005-FUNCTION-TUNNEL-METRIC-SPACES.md
-    ├── 006-FUNCTION-TUNNEL-GENERATION-AND-GOVERNANCE.md
-    ├── 007-FUNCTION-TUNNEL-AI-AND-CIVILIZATION.md
-    ├── 008-OPEN-PROBLEMS.md
+# Repository Structure
 
-    figures/
-    
-    ├── Fig-000-Why-Function-Tunnel-AI
-    ├── Fig-001-Universal-Emergence-of-Function-Tunnels
-    ├── Fig-002-Tunnel-Formation-Principle
-    ├── Fig-003-Function-Tunnel-Taxonomy
-    ├── Fig-004-Function-Tunnel-Lifecycle
-    ├── Fig-005-Metric-Space-for-Function-Tunnels
-    ├── Fig-006-Positive-vs-Hijacking-Tunnels
-    ├── Fig-007-Function-Tunnel-AI-and-Society
-    ├── Fig-008-Future-Research-Roadmap
-    ├── Fig-009-Function-Tunnel-Neutrality-Principle
+```text
+docs/
 
-## Relationship to Other Research Directions
+├── 001-FUNCTION-TUNNEL-AI.md
+├── 002-WHY-FUNCTION-TUNNELS.md
+├── 003-FUNCTION-TUNNEL-NEUTRALITY-PRINCIPLE.md
+├── 004-FUNCTION-TUNNEL-TAXONOMY.md
+├── 005-FUNCTION-TUNNEL-METRIC-SPACES.md
+├── 006-FUNCTION-TUNNEL-GENERATION-AND-GOVERNANCE.md
+├── 007-FUNCTION-TUNNEL-AI-AND-CIVILIZATION.md
+├── 008-OPEN-PROBLEMS.md
+
+figures/
+
+├── Fig-000-Why-Function-Tunnel-AI
+├── Fig-001-Universal-Emergence-of-Function-Tunnels
+├── Fig-002-Tunnel-Formation-Principle
+├── Fig-003-Function-Tunnel-Taxonomy
+├── Fig-004-Function-Tunnel-Lifecycle
+├── Fig-005-Metric-Space-for-Function-Tunnels
+├── Fig-006-Positive-vs-Hijacking-Tunnels
+├── Fig-007-Function-Tunnel-AI-and-Society
+├── Fig-008-Future-Research-Roadmap
+├── Fig-009-Function-Tunnel-Neutrality-Principle
+```
+
+---
+
+# Relationship to Other Research Directions
 
 Function Tunnel AI is closely related to several ongoing research programs.
 
@@ -212,15 +231,17 @@ Studies tunnel disruption, recovery, adaptation, and resilience under extreme co
 
 Together these directions contribute to a broader effort to understand how complex systems evolve and how Artificial Intelligence may participate in that evolution.
 
-## What This Repository Is
+---
+
+# What This Repository Is
 
 This repository is:
 
-a research outlook,
-a conceptual framework,
-an open research program,
-a collection of hypotheses,
-a roadmap for future investigation.
+* a research outlook,
+* a conceptual framework,
+* an open research program,
+* a collection of hypotheses,
+* a roadmap for future investigation.
 
 It is not intended to present a complete theory.
 
@@ -228,25 +249,29 @@ Many of the most important questions remain unresolved.
 
 The purpose of this work is to identify those questions and encourage future exploration.
 
-## Open Problems
+---
+
+# Open Problems
 
 Major challenges include:
 
-Function Tunnel Representation
-Function Tunnel Distance
-Automatic Tunnel Discovery
-Tunnel Family Clustering
-Tunnel Evolution Modeling
-Tunnel Simulation
-Tunnel Generation
-Tunnel Optimization
-Tunnel Governance
-Tunnel Defense
-Civilization-Scale Tunnel Ecosystems
+* Function Tunnel Representation
+* Function Tunnel Distance
+* Automatic Tunnel Discovery
+* Tunnel Family Clustering
+* Tunnel Evolution Modeling
+* Tunnel Simulation
+* Tunnel Generation
+* Tunnel Optimization
+* Tunnel Governance
+* Tunnel Defense
+* Civilization-Scale Tunnel Ecosystems
 
 These challenges may define a substantial research agenda for years to come.
 
-## Looking Forward
+---
+
+# Looking Forward
 
 The twentieth century was shaped by energy, industry, computation, and information.
 
@@ -259,6 +284,8 @@ Not merely intelligence.
 But the ability to understand, generate, optimize, govern, and defend the pathways through which intelligence, economies, societies, and civilizations evolve.
 
 Function Tunnel AI is proposed as an early step toward exploring this frontier.
+
+---
 
 ## Final Remark
 
@@ -276,7 +303,8 @@ How can harmful pathways be governed?
 
 And perhaps most importantly:
 
-How can humanity participate responsibly in shaping the pathways through which its future unfolds?
+> How can humanity participate responsibly in shaping the pathways through which its future unfolds?
+
 
 ---
 

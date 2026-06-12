@@ -18,6 +18,10 @@ This document summarizes the major open problems, research opportunities, and lo
 
 ---
 
+![./figures/Fig-008-Future-Research-Roadmap.png](./figures/Fig-008-Future-Research-Roadmap.png)
+
+---
+
 # 1. Why Open Problems Matter
 
 Many scientific disciplines begin with observations.

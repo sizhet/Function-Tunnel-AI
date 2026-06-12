@@ -26,6 +26,10 @@ This document explores the implications of Function Tunnel AI for the future dev
 
 ---
 
+![./figures/Fig-007-Function-Tunnel-AI-and-Society.png](./figures/Fig-007-Function-Tunnel-AI-and-Society.png)
+
+---
+
 # 1. Civilization as a Landscape of Pathways
 
 History is often taught as a sequence of events.
@@ -327,6 +331,12 @@ Understanding Pathway Power may become essential for future governance.
 ---
 
 # 13. The Problem of Tunnel Hijacking
+
+---
+
+![./figures/Fig-006-Positive-vs-Hijacking-Tunnels.png](./figures/Fig-006-Positive-vs-Hijacking-Tunnels.png)
+
+---
 
 The greatest risks may arise not from beneficial tunnels but from exploitative ones.
 

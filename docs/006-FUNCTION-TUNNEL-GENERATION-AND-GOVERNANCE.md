@@ -57,6 +57,12 @@ At this point Function Tunnels become engineering targets.
 
 # 2. The Function Tunnel Lifecycle
 
+---
+
+![./figures/Fig-004-Function-Tunnel-Lifecycle.png](./figures/Fig-004-Function-Tunnel-Lifecycle.png)
+
+---
+
 A complete Function Tunnel lifecycle may be described as:
 
 ```text

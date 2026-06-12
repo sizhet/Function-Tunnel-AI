@@ -20,6 +20,10 @@ The widespread appearance of Function Tunnels may therefore be understood not as
 
 ---
 
+![./figures/Fig-001-Universal-Emergence-of-Function-Tunnels.png](./figures/Fig-001-Universal-Emergence-of-Function-Tunnels.png)
+
+---
+
 # 1. The Misconception of Randomness
 
 A common intuition is that randomness leads to disorder.
@@ -384,6 +388,12 @@ It may be understood as a continuously evolving landscape of interacting Functio
 ---
 
 # Conclusion
+
+---
+
+![./figures/Fig-002-Tunnel-Formation-Principle.png](./figures/Fig-002-Tunnel-Formation-Principle.png)
+
+---
 
 Function Tunnels do not require intentional design.
 

@@ -29,6 +29,10 @@ This document proposes the Function Tunnel Neutrality Principle:
 
 ---
 
+![./figures/Fig-009-Function-Tunnel-Neutrality-Principle.png](./figures/Fig-009-Function-Tunnel-Neutrality-Principle.png)
+
+---
+
 # 1. The Misconception of Tunnel = Manipulation
 
 When people first encounter the concept of Function Tunnels, many immediately associate tunnels with:

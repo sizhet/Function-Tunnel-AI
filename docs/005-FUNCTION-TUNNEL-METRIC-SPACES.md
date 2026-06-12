@@ -18,6 +18,10 @@ The development of Function Tunnel Distance may ultimately become one of the mos
 
 ---
 
+![./figures/Fig-005-Metric-Space-for-Function-Tunnels.png](./figures/Fig-005-Metric-Space-for-Function-Tunnels.png)
+
+---
+
 # 1. Why Metric Spaces Matter
 
 Scientific understanding often progresses through three stages:

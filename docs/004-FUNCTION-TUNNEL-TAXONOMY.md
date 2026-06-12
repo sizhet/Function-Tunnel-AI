@@ -18,6 +18,10 @@ The purpose of the taxonomy is not to provide a final classification, but to est
 
 ---
 
+![./figures/Fig-003-Function-Tunnel-Taxonomy.png](./figures/Fig-003-Function-Tunnel-Taxonomy.png)
+
+---
+
 # 1. Why Classification Matters
 
 Scientific progress often begins with classification.
