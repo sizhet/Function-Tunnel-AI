@@ -20,6 +20,8 @@ This repository refers to such pathways as:
 
 # Function Tunnels
 
+![./docs/figures/Fig-001-Universal-Emergence-of-Function-Tunnels.png](./docs/figures/Fig-001-Universal-Emergence-of-Function-Tunnels.png)
+
 Examples appear throughout nature and society:
 
 * rivers,
@@ -40,6 +42,12 @@ As Artificial Intelligence becomes increasingly capable of discovering and shapi
 ---
 
 # Core Thesis
+
+---
+
+![./docs/figures/Fig-003-Function-Tunnel-Taxonomy.png](./docs/figures/Fig-003-Function-Tunnel-Taxonomy.png)
+
+---
 
 The central hypothesis of this project is:
 
@@ -69,6 +77,12 @@ They are structural phenomena that appear across many classes of complex systems
 
 # Why This Research Matters
 
+---
+
+![./docs/figures/Fig-000-Why-Function-Tunnel-AI.png](./docs/figures/Fig-000-Why-Function-Tunnel-AI.png)
+
+---
+
 Historically, Function Tunnels emerged gradually.
 
 Civilizations required decades, centuries, or even millennia to discover and reinforce successful pathways.
@@ -97,6 +111,12 @@ The deeper question becomes:
 ---
 
 # Core Research Questions
+
+---
+
+![./docs/figures/Fig-005-Metric-Space-for-Function-Tunnels.png](./docs/figures/Fig-005-Metric-Space-for-Function-Tunnels.png)
+
+---
 
 Function Tunnel AI investigates several fundamental questions.
 
@@ -135,6 +155,12 @@ What role will Function Tunnel AI play in the future development of economy, soc
 ---
 
 # Function Tunnel Neutrality Principle
+
+---
+
+![./docs/figures/Fig-009-Function-Tunnel-Neutrality-Principle.png](./docs/figures/Fig-009-Function-Tunnel-Neutrality-Principle.png)
+
+---
 
 One of the most important principles of this project is:
 
@@ -252,6 +278,12 @@ The purpose of this work is to identify those questions and encourage future exp
 ---
 
 # Open Problems
+
+---
+
+![./docs/figures/Fig-008-Future-Research-Roadmap.png](./docs/figures/Fig-008-Future-Research-Roadmap.png)
+
+---
 
 Major challenges include:
 
