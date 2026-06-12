@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+
+title: "Normal Intelligence and Emergency Intelligence: From Animal Survival to Autonomous Driving and Future Brain-Unit AI"
+
+message: "If you use this work, please cite it using the metadata below."
+
+type: report
+
+authors:
+  - family-names: Tan
+    given-names: Sizhe
+
+abstract: >
+  This repository explores the distinction between Normal Intelligence
+  and Emergency Intelligence as a potential architectural principle
+  underlying biological brains, autonomous systems, and future artificial
+  intelligence. Inspired by animal survival behavior, autonomous driving,
+  Function Tunnel Networks (FTN), and MET Brain Structure (MBS), the work
+  investigates how routine operation and emergency response may evolve
+  into separate intelligence layers connected through trigger-driven
+  switching mechanisms.
+
+keywords:
+  - Artificial Intelligence
+  - Autonomous Systems
+  - Autonomous Driving
+  - Brain-Unit AI
+  - Function Tunnel Networks
+  - FTN
+  - MET Brain Structure
+  - MBS
+  - Normal Intelligence
+  - Emergency Intelligence
+  - AI Safety
+  - Trigger Mechanisms
+  - Structural Intelligence
+
+license: Apache-2.0
