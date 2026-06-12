@@ -111,3 +111,7 @@
 37. Normal Intelligence and Emergency Intelligence - \
     From Animal Survival to Autonomous Driving and Future Brain-Unit AI \
     Repository: https://github.com/sizhet/Normal-Intelligence-and-Emergency-Intelligence
+    
+38. Function Tunnel AI - \
+    A Research Outlook for Economy, Society, and Civilization \
+    Repository: https://github.com/sizhet/Function-Tunnel-AI
