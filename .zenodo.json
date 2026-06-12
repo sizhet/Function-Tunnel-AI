@@ -1,31 +1,42 @@
 {
-  "title": "Normal Intelligence and Emergency Intelligence: From Animal Survival to Autonomous Driving and Future Brain-Unit AI",
+  "title": "Function Tunnel AI: A Research Outlook for Economy, Society, and Civilization",
   "creators": [
     {
       "name": "Tan, Sizhe",
       "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "GPT-Obot",
+      "affiliation": "OpenAI ChatGPT"
     }
   ],
-  "description": "This repository explores the distinction between Normal Intelligence and Emergency Intelligence as a potential architectural principle underlying biological brains, autonomous systems, and future artificial intelligence. Inspired by animal survival behavior, autonomous driving systems, Function Tunnel Networks (FTN), and MET Brain Structure (MBS), the work investigates how routine operation and emergency response may evolve into separate intelligence layers connected through trigger-driven switching mechanisms. The repository discusses evolutionary motivations, autonomous driving implications, AI safety considerations, and possible connections to future Brain-Unit AI architectures. The goal is not to propose a complete implementation, but to highlight a recurring structural pattern that may contribute to safer, more robust, and more evolvable intelligent systems.",
-  "upload_type": "publication",
-  "publication_type": "report",
-  "license": "Apache-2.0",
+  "description": "Function Tunnel AI (FT-AI) is proposed as an open research program for discovering, representing, simulating, generating, optimizing, governing, and defending Function Tunnels across natural, technological, economic, social, political, and civilizational systems. The project investigates how complex systems often evolve through reinforced and feasible pathways rather than arbitrary trajectories, and how Artificial Intelligence may increasingly participate in discovering, shaping, optimizing, or hijacking these pathways. This repository presents a research outlook, conceptual framework, taxonomy, neutrality principle, metric-space roadmap, governance framework, civilization perspective, and open problems for future work.",
   "keywords": [
-    "Artificial Intelligence",
-    "Autonomous Systems",
-    "Autonomous Driving",
-    "Brain-Unit AI",
+    "Function Tunnel AI",
+    "Function Tunnel",
+    "Structural Intelligence",
+    "Function Tunnel Intelligence",
     "Function Tunnel Networks",
-    "FTN",
-    "MET Brain Structure",
-    "MBS",
-    "Normal Intelligence",
-    "Emergency Intelligence",
-    "AI Safety",
-    "Trigger Mechanisms",
-    "Dual-Layer Intelligence",
-    "Structural Intelligence"
+    "Artificial Intelligence",
+    "Complex Systems",
+    "Metric Space",
+    "Pathway Science",
+    "AI Governance",
+    "Civilization",
+    "Economy and Society",
+    "Tunnel Governance",
+    "Tunnel Generation",
+    "Tunnel Neutrality Principle"
   ],
-  "version": "1.0.0",
-  "language": "eng"
+  "license": "Apache-2.0",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/sizhet/Function-Tunnel-AI",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
 }

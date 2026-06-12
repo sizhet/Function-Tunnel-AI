@@ -1,38 +1,31 @@
 cff-version: 1.2.0
-
-title: "Normal Intelligence and Emergency Intelligence: From Animal Survival to Autonomous Driving and Future Brain-Unit AI"
-
-message: "If you use this work, please cite it using the metadata below."
-
-type: report
-
+title: "Function Tunnel AI: A Research Outlook for Economy, Society, and Civilization"
+message: "If you use this work, please cite it as below."
+type: dataset
 authors:
   - family-names: Tan
     given-names: Sizhe
-
-abstract: >
-  This repository explores the distinction between Normal Intelligence
-  and Emergency Intelligence as a potential architectural principle
-  underlying biological brains, autonomous systems, and future artificial
-  intelligence. Inspired by animal survival behavior, autonomous driving,
-  Function Tunnel Networks (FTN), and MET Brain Structure (MBS), the work
-  investigates how routine operation and emergency response may evolve
-  into separate intelligence layers connected through trigger-driven
-  switching mechanisms.
-
+    affiliation: Independent Researcher
+  - name: GPT-Obot
+    affiliation: OpenAI ChatGPT
+abstract: "Function Tunnel AI (FT-AI) is proposed as an open research program for discovering, representing, simulating, generating, optimizing, governing, and defending Function Tunnels across natural, technological, economic, social, political, and civilizational systems. The project investigates how complex systems often evolve through reinforced and feasible pathways rather than arbitrary trajectories, and how Artificial Intelligence may increasingly participate in discovering, shaping, optimizing, or hijacking these pathways."
 keywords:
-  - Artificial Intelligence
-  - Autonomous Systems
-  - Autonomous Driving
-  - Brain-Unit AI
-  - Function Tunnel Networks
-  - FTN
-  - MET Brain Structure
-  - MBS
-  - Normal Intelligence
-  - Emergency Intelligence
-  - AI Safety
-  - Trigger Mechanisms
+  - Function Tunnel AI
+  - Function Tunnel
   - Structural Intelligence
-
+  - Function Tunnel Intelligence
+  - Function Tunnel Networks
+  - Artificial Intelligence
+  - Complex Systems
+  - Metric Space
+  - Pathway Science
+  - AI Governance
+  - Civilization
+  - Economy and Society
+  - Tunnel Governance
+  - Tunnel Generation
+  - Tunnel Neutrality Principle
 license: Apache-2.0
+repository-code: "https://github.com/sizhet/Function-Tunnel-AI"
+version: "1.0.0"
+date-released: "2026-06-12"

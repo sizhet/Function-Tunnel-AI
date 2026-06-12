@@ -260,14 +260,6 @@ But the ability to understand, generate, optimize, govern, and defend the pathwa
 
 Function Tunnel AI is proposed as an early step toward exploring this frontier.
 
-## Citation
-
-If you find this work useful, please cite the repository and its associated DOI.
-
-## License
-
-Open research for collective learning and future exploration.
-
 ## Final Remark
 
 The value of Function Tunnel AI may ultimately lie not in the answers it currently provides.
@@ -285,3 +277,32 @@ How can harmful pathways be governed?
 And perhaps most importantly:
 
 How can humanity participate responsibly in shaping the pathways through which its future unfolds?
+
+---
+
+## Author
+
+Sizhe Tan\
+Independent Researcher
+
+GPT-Obot\
+AI Research Assistant
+
+2026
+
+## Citation
+
+DOI: TBD
+
+## License
+
+Apache-2.0
+
+---
+
+## 📚 DBM-SI Series Navigation
+
+See:\
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md)
+
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Structural-Intelligence-Dictionary-(v2).md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Structural-Intelligence-Dictionary-(v2).md)
