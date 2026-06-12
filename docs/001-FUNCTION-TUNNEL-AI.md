@@ -49,12 +49,12 @@ In finance, economics, population growth, technological adoption, social diffusi
 
 These observations suggest that many systems are constrained by:
 
-resource availability,
-structural feasibility,
-historical path dependence,
-reinforcement effects,
-environmental constraints,
-institutional constraints.
+- resource availability,
+- structural feasibility,
+- historical path dependence,
+- reinforcement effects,
+- environmental constraints,
+- institutional constraints.
 
 Over time, the notion of a simple curve evolves into a broader concept:
 
@@ -170,12 +170,12 @@ Programming languages, protocols, standards, APIs, operating systems, and platfo
 
 Examples include:
 
-TCP/IP
-HTML
-Linux
-Java
-Android
-Git
+- TCP/IP
+- HTML
+- Linux
+- Java
+- Android
+- Git
 
 These systems become technological Function Tunnels.
 
@@ -207,13 +207,13 @@ AI changes this situation fundamentally.
 
 Future AI systems may become capable of:
 
-discovering hidden tunnels,
-simulating future tunnels,
-generating new tunnels,
-optimizing tunnel structures,
-redirecting tunnel evolution,
-governing tunnel behavior,
-defending against harmful tunnels.
+- discovering hidden tunnels,
+- simulating future tunnels,
+- generating new tunnels,
+- optimizing tunnel structures,
+- redirecting tunnel evolution,
+- governing tunnel behavior,
+- defending against harmful tunnels.
 
 This transforms Function Tunnels from passive observations into active engineering targets.
 
@@ -229,11 +229,11 @@ Others exploit human vulnerabilities.
 
 Examples include:
 
-education pathways,
-scientific research ecosystems,
-healthcare recovery processes,
-disaster response systems,
-technological innovation networks.
+- education pathways,
+- scientific research ecosystems,
+- healthcare recovery processes,
+- disaster response systems,
+- technological innovation networks.
 
 These tunnels generally enhance collective capability.
 
@@ -241,11 +241,11 @@ These tunnels generally enhance collective capability.
 
 Examples include:
 
-addiction systems,
-manipulation systems,
-dependency systems,
-polarization mechanisms,
-coercive control structures.
+- addiction systems,
+- manipulation systems,
+- dependency systems,
+- polarization mechanisms,
+- coercive control structures.
 
 These tunnels exploit reinforcement mechanisms for narrow objectives.
 
@@ -293,21 +293,21 @@ Time-series analysis provides only a partial solution.
 
 Many Function Tunnels involve:
 
-hierarchical structures,
-weighted branches,
-graph relationships,
-task dependencies,
-social interactions,
-institutional constraints.
+- hierarchical structures,
+- weighted branches,
+- graph relationships,
+- task dependencies,
+- social interactions,
+- institutional constraints.
 
 Future research may require:
 
-Tree-Weighted Branch Representations,
-Function Tunnel Starmaps,
-Tunnel Distance Metrics,
-CCC-preserved comparisons,
-HAS-style containment measures,
-Tunnel Family Clustering.
+- Tree-Weighted Branch Representations,
+- Function Tunnel Starmaps,
+- Tunnel Distance Metrics,
+- CCC-preserved comparisons,
+- HAS-style containment measures,
+- Tunnel Family Clustering.
 
 This area may become one of the foundational mathematical components of Function Tunnel AI.
 
