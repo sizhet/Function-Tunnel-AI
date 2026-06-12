@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<defs>
+<style>
+.title { font-family: Arial, Helvetica, sans-serif; font-size: 34px; font-weight: 700; fill:#111827; }
+.subtitle { font-family: Arial, Helvetica, sans-serif; font-size: 18px; fill:#475569; }
+.label { font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight:600; fill:#111827; }
+.small { font-family: Arial, Helvetica, sans-serif; font-size: 14px; fill:#334155; }
+.box { fill:#f8fafc; stroke:#334155; stroke-width:2; rx:16; }
+.core { fill:#eef2ff; stroke:#3730a3; stroke-width:3; rx:22; }
+.good { fill:#ecfdf5; stroke:#047857; stroke-width:2; rx:16; }
+.bad { fill:#fff1f2; stroke:#be123c; stroke-width:2; rx:16; }
+.neutral { fill:#fefce8; stroke:#a16207; stroke-width:2; rx:16; }
+.arrow { stroke:#334155; stroke-width:2.5; fill:none; marker-end:url(#arrow); }
+.line { stroke:#64748b; stroke-width:2; fill:none; }
+</style>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M2,2 L10,6 L2,10 Z" fill="#334155"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="700" y="55" text-anchor="middle" class="title">Fig-006 — Positive vs Hijacking Function Tunnels</text>
+<rect x="170" y="135" width="420" height="90" class="good"/>
+<text x="380.0" y="172.0" text-anchor="middle" class="label">Positive Function Tunnels</text>
+<text x="380.0" y="202.0" text-anchor="middle" class="small">capability expansion and human flourishing</text>
+<rect x="220" y="270" width="320" height="70" class="good"/>
+<text x="380.0" y="297.0" text-anchor="middle" class="label">Education</text>
+<text x="380.0" y="327.0" text-anchor="middle" class="small">skills and knowledge</text>
+<rect x="220" y="385" width="320" height="70" class="good"/>
+<text x="380.0" y="412.0" text-anchor="middle" class="label">Healthcare</text>
+<text x="380.0" y="442.0" text-anchor="middle" class="small">recovery pathway</text>
+<rect x="220" y="500" width="320" height="70" class="good"/>
+<text x="380.0" y="527.0" text-anchor="middle" class="label">Science</text>
+<text x="380.0" y="557.0" text-anchor="middle" class="small">discovery ecosystem</text>
+<rect x="220" y="615" width="320" height="70" class="good"/>
+<text x="380.0" y="642.0" text-anchor="middle" class="label">Disaster Response</text>
+<text x="380.0" y="672.0" text-anchor="middle" class="small">resilience and repair</text>
+<rect x="810" y="135" width="420" height="90" class="bad"/>
+<text x="1020.0" y="172.0" text-anchor="middle" class="label">Hijacking Function Tunnels</text>
+<text x="1020.0" y="202.0" text-anchor="middle" class="small">extraction, dependency, manipulation</text>
+<rect x="860" y="270" width="320" height="70" class="bad"/>
+<text x="1020.0" y="297.0" text-anchor="middle" class="label">Addiction</text>
+<text x="1020.0" y="327.0" text-anchor="middle" class="small">reinforced dependency</text>
+<rect x="860" y="385" width="320" height="70" class="bad"/>
+<text x="1020.0" y="412.0" text-anchor="middle" class="label">Manipulation</text>
+<text x="1020.0" y="442.0" text-anchor="middle" class="small">behavioral capture</text>
+<rect x="860" y="500" width="320" height="70" class="bad"/>
+<text x="1020.0" y="527.0" text-anchor="middle" class="label">Polarization</text>
+<text x="1020.0" y="557.0" text-anchor="middle" class="small">conflict reinforcement</text>
+<rect x="860" y="615" width="320" height="70" class="bad"/>
+<text x="1020.0" y="642.0" text-anchor="middle" class="label">Escalation</text>
+<text x="1020.0" y="672.0" text-anchor="middle" class="small">risk amplification</text>
+<rect x="550" y="705" width="300" height="90" class="neutral"/>
+<text x="700.0" y="742.0" text-anchor="middle" class="label">Evaluation Required</text>
+<text x="700.0" y="768.0" text-anchor="middle" class="small"><tspan x="700.0" dy="0">objectives • transparency</tspan><tspan x="700.0" dy="18">reversibility • net social effect</tspan></text>
+<path d="M380 650 L650 705" class="arrow"/><path d="M1020 650 L750 705" class="arrow"/>
+</svg>

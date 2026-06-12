@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<defs>
+<style>
+.title { font-family: Arial, Helvetica, sans-serif; font-size: 34px; font-weight: 700; fill:#111827; }
+.subtitle { font-family: Arial, Helvetica, sans-serif; font-size: 18px; fill:#475569; }
+.label { font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight:600; fill:#111827; }
+.small { font-family: Arial, Helvetica, sans-serif; font-size: 14px; fill:#334155; }
+.box { fill:#f8fafc; stroke:#334155; stroke-width:2; rx:16; }
+.core { fill:#eef2ff; stroke:#3730a3; stroke-width:3; rx:22; }
+.good { fill:#ecfdf5; stroke:#047857; stroke-width:2; rx:16; }
+.bad { fill:#fff1f2; stroke:#be123c; stroke-width:2; rx:16; }
+.neutral { fill:#fefce8; stroke:#a16207; stroke-width:2; rx:16; }
+.arrow { stroke:#334155; stroke-width:2.5; fill:none; marker-end:url(#arrow); }
+.line { stroke:#64748b; stroke-width:2; fill:none; }
+</style>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M2,2 L10,6 L2,10 Z" fill="#334155"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="700" y="55" text-anchor="middle" class="title">Fig-004 — Function Tunnel Lifecycle</text>
+<rect x="610.0" y="135.0" width="180" height="70" class="box"/>
+<text x="700.0" y="176.0" text-anchor="middle" class="label">Discovery</text>
+<rect x="860.6871677777503" y="195.8284447890657" width="180" height="70" class="box"/>
+<text x="950.6871677777503" y="236.8284447890657" text-anchor="middle" class="label">Representation</text>
+<rect x="994.0750236747613" y="349.8514738065981" width="180" height="70" class="box"/>
+<text x="1084.0750236747613" y="390.8514738065981" text-anchor="middle" class="label">Distance</text>
+<rect x="947.7499074759312" y="525.0" width="180" height="70" class="box"/>
+<text x="1037.7499074759312" y="566.0" text-anchor="middle" class="label">Clustering</text>
+<rect x="743.3878558970108" y="639.3200814043362" width="180" height="70" class="box"/>
+<text x="833.3878558970108" y="680.3200814043362" text-anchor="middle" class="label">Simulation</text>
+<rect x="476.6121441029892" y="639.3200814043362" width="180" height="70" class="box"/>
+<text x="566.6121441029892" y="680.3200814043362" text-anchor="middle" class="label">Generation</text>
+<rect x="272.250092524069" y="525.0000000000001" width="180" height="70" class="box"/>
+<text x="362.250092524069" y="566.0000000000001" text-anchor="middle" class="label">Optimization</text>
+<rect x="225.92497632523884" y="349.85147380659816" width="180" height="70" class="box"/>
+<text x="315.92497632523884" y="390.85147380659816" text-anchor="middle" class="label">Governance</text>
+<rect x="359.3128322222496" y="195.82844478906574" width="180" height="70" class="box"/>
+<text x="449.3128322222496" y="236.82844478906574" text-anchor="middle" class="label">Defense</text>
+<path d="M700.0 170.0 L950.6871677777503 230.8284447890657" class="arrow"/>
+<path d="M950.6871677777503 230.8284447890657 L1084.0750236747613 384.8514738065981" class="arrow"/>
+<path d="M1084.0750236747613 384.8514738065981 L1037.7499074759312 560.0" class="arrow"/>
+<path d="M1037.7499074759312 560.0 L833.3878558970108 674.3200814043362" class="arrow"/>
+<path d="M833.3878558970108 674.3200814043362 L566.6121441029892 674.3200814043362" class="arrow"/>
+<path d="M566.6121441029892 674.3200814043362 L362.250092524069 560.0000000000001" class="arrow"/>
+<path d="M362.250092524069 560.0000000000001 L315.92497632523884 384.85147380659816" class="arrow"/>
+<path d="M315.92497632523884 384.85147380659816 L449.3128322222496 230.82844478906574" class="arrow"/>
+<path d="M449.3128322222496 230.82844478906574 L700.0 170.0" class="arrow"/>
+<rect x="540" y="365" width="320" height="110" class="core"/>
+<text x="700.0" y="412.0" text-anchor="middle" class="label">FT-AI Operational Loop</text>
+<text x="700.0" y="442.0" text-anchor="middle" class="small">from observation to stewardship</text>
+</svg>

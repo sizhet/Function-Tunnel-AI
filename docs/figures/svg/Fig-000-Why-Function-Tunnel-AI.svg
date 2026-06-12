@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<defs>
+<style>
+.title { font-family: Arial, Helvetica, sans-serif; font-size: 34px; font-weight: 700; fill:#111827; }
+.subtitle { font-family: Arial, Helvetica, sans-serif; font-size: 18px; fill:#475569; }
+.label { font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight:600; fill:#111827; }
+.small { font-family: Arial, Helvetica, sans-serif; font-size: 14px; fill:#334155; }
+.box { fill:#f8fafc; stroke:#334155; stroke-width:2; rx:16; }
+.core { fill:#eef2ff; stroke:#3730a3; stroke-width:3; rx:22; }
+.good { fill:#ecfdf5; stroke:#047857; stroke-width:2; rx:16; }
+.bad { fill:#fff1f2; stroke:#be123c; stroke-width:2; rx:16; }
+.neutral { fill:#fefce8; stroke:#a16207; stroke-width:2; rx:16; }
+.arrow { stroke:#334155; stroke-width:2.5; fill:none; marker-end:url(#arrow); }
+.line { stroke:#64748b; stroke-width:2; fill:none; }
+</style>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M2,2 L10,6 L2,10 Z" fill="#334155"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="700" y="55" text-anchor="middle" class="title">Fig-000 — Why Function Tunnel AI</text>
+<text x="700" y="88" text-anchor="middle" class="subtitle">A research outlook for economy, society, and civilization</text>
+<rect x="90" y="150" width="300" height="70" class="box"/>
+<text x="240.0" y="177.0" text-anchor="middle" class="label">Nature</text>
+<text x="240.0" y="207.0" text-anchor="middle" class="small">rivers, lightning, frost</text>
+<path d="M390 185 C520 185, 560 400, 640 400" class="arrow"/>
+<rect x="90" y="250" width="300" height="70" class="box"/>
+<text x="240.0" y="277.0" text-anchor="middle" class="label">Biology</text>
+<text x="240.0" y="307.0" text-anchor="middle" class="small">learning, niches, trails</text>
+<path d="M390 285 C520 285, 560 400, 640 400" class="arrow"/>
+<rect x="90" y="350" width="300" height="70" class="box"/>
+<text x="240.0" y="377.0" text-anchor="middle" class="label">Technology</text>
+<text x="240.0" y="407.0" text-anchor="middle" class="small">standards, APIs, platforms</text>
+<path d="M390 385 C520 385, 560 400, 640 400" class="arrow"/>
+<rect x="90" y="450" width="300" height="70" class="box"/>
+<text x="240.0" y="477.0" text-anchor="middle" class="label">Economy</text>
+<text x="240.0" y="507.0" text-anchor="middle" class="small">supply chains, capital flows</text>
+<path d="M390 485 C520 485, 560 400, 640 400" class="arrow"/>
+<rect x="90" y="550" width="300" height="70" class="box"/>
+<text x="240.0" y="577.0" text-anchor="middle" class="label">Society</text>
+<text x="240.0" y="607.0" text-anchor="middle" class="small">education, culture, politics</text>
+<path d="M390 585 C520 585, 560 400, 640 400" class="arrow"/>
+<rect x="90" y="650" width="300" height="70" class="box"/>
+<text x="240.0" y="677.0" text-anchor="middle" class="label">Civilization</text>
+<text x="240.0" y="707.0" text-anchor="middle" class="small">pathways, power, governance</text>
+<path d="M390 685 C520 685, 560 400, 640 400" class="arrow"/>
+<rect x="640" y="330" width="300" height="140" class="core"/>
+<text x="790.0" y="392.0" text-anchor="middle" class="label">Function Tunnel AI</text>
+<text x="790.0" y="422.0" text-anchor="middle" class="small">Discover • Generate • Govern</text>
+<path d="M940 400 C1080 400, 1080 260, 1010 260" class="arrow"/>
+<path d="M940 400 C1080 400, 1080 425, 1010 425" class="arrow"/>
+<path d="M940 400 C1080 400, 1080 590, 1010 590" class="arrow"/>
+<rect x="1010" y="220" width="300" height="80" class="good"/>
+<text x="1160.0" y="252.0" text-anchor="middle" class="label">Better Pathways</text>
+<text x="1160.0" y="282.0" text-anchor="middle" class="small">education, health, science</text>
+<rect x="1010" y="385" width="300" height="80" class="good"/>
+<text x="1160.0" y="417.0" text-anchor="middle" class="label">Governed Power</text>
+<text x="1160.0" y="447.0" text-anchor="middle" class="small">transparency, reversibility</text>
+<rect x="1010" y="550" width="300" height="80" class="good"/>
+<text x="1160.0" y="582.0" text-anchor="middle" class="label">Civilization Stewardship</text>
+<text x="1160.0" y="612.0" text-anchor="middle" class="small">long-term social effect</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<defs>
+<style>
+.title { font-family: Arial, Helvetica, sans-serif; font-size: 34px; font-weight: 700; fill:#111827; }
+.subtitle { font-family: Arial, Helvetica, sans-serif; font-size: 18px; fill:#475569; }
+.label { font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight:600; fill:#111827; }
+.small { font-family: Arial, Helvetica, sans-serif; font-size: 14px; fill:#334155; }
+.box { fill:#f8fafc; stroke:#334155; stroke-width:2; rx:16; }
+.core { fill:#eef2ff; stroke:#3730a3; stroke-width:3; rx:22; }
+.good { fill:#ecfdf5; stroke:#047857; stroke-width:2; rx:16; }
+.bad { fill:#fff1f2; stroke:#be123c; stroke-width:2; rx:16; }
+.neutral { fill:#fefce8; stroke:#a16207; stroke-width:2; rx:16; }
+.arrow { stroke:#334155; stroke-width:2.5; fill:none; marker-end:url(#arrow); }
+.line { stroke:#64748b; stroke-width:2; fill:none; }
+</style>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M2,2 L10,6 L2,10 Z" fill="#334155"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="700" y="55" text-anchor="middle" class="title">Fig-007 — Function Tunnel AI and Society</text>
+<rect x="80" y="170" width="220" height="80" class="box"/>
+<text x="190.0" y="202.0" text-anchor="middle" class="label">Individuals</text>
+<text x="190.0" y="232.0" text-anchor="middle" class="small">skills, habits, agency</text>
+<path d="M190 250 L700 430" class="arrow"/>
+<rect x="340" y="170" width="220" height="80" class="box"/>
+<text x="450.0" y="202.0" text-anchor="middle" class="label">Organizations</text>
+<text x="450.0" y="232.0" text-anchor="middle" class="small">processes, incentives</text>
+<path d="M450 250 L700 430" class="arrow"/>
+<rect x="600" y="170" width="220" height="80" class="box"/>
+<text x="710.0" y="202.0" text-anchor="middle" class="label">Markets</text>
+<text x="710.0" y="232.0" text-anchor="middle" class="small">production, exchange</text>
+<path d="M710 250 L700 430" class="arrow"/>
+<rect x="860" y="170" width="220" height="80" class="box"/>
+<text x="970.0" y="202.0" text-anchor="middle" class="label">Governments</text>
+<text x="970.0" y="232.0" text-anchor="middle" class="small">institutions, policy</text>
+<path d="M970 250 L700 430" class="arrow"/>
+<rect x="1120" y="170" width="220" height="80" class="box"/>
+<text x="1230.0" y="202.0" text-anchor="middle" class="label">AI Agents</text>
+<text x="1230.0" y="232.0" text-anchor="middle" class="small">discovery, generation</text>
+<path d="M1230 250 L700 430" class="arrow"/>
+<rect x="500" y="360" width="400" height="150" class="core"/>
+<text x="700.0" y="427.0" text-anchor="middle" class="label">Function Tunnel Ecosystem</text>
+<text x="700.0" y="457.0" text-anchor="middle" class="small">interacting pathways across society</text>
+<path d="M700 510 L290 640" class="arrow"/>
+<rect x="180" y="640" width="220" height="80" class="good"/>
+<text x="290.0" y="672.0" text-anchor="middle" class="label">Opportunity</text>
+<text x="290.0" y="702.0" text-anchor="middle" class="small">positive access</text>
+<path d="M700 510 L570 640" class="arrow"/>
+<rect x="460" y="640" width="220" height="80" class="neutral"/>
+<text x="570.0" y="672.0" text-anchor="middle" class="label">Power</text>
+<text x="570.0" y="702.0" text-anchor="middle" class="small">pathway control</text>
+<path d="M700 510 L850 640" class="arrow"/>
+<rect x="740" y="640" width="220" height="80" class="bad"/>
+<text x="850.0" y="672.0" text-anchor="middle" class="label">Risk</text>
+<text x="850.0" y="702.0" text-anchor="middle" class="small">hijacking and lock-in</text>
+<path d="M700 510 L1130 640" class="arrow"/>
+<rect x="1020" y="640" width="220" height="80" class="neutral"/>
+<text x="1130.0" y="672.0" text-anchor="middle" class="label">Governance</text>
+<text x="1130.0" y="702.0" text-anchor="middle" class="small">stewardship</text>
+</svg>

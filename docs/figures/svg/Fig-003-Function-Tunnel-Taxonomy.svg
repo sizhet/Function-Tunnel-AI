@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<defs>
+<style>
+.title { font-family: Arial, Helvetica, sans-serif; font-size: 34px; font-weight: 700; fill:#111827; }
+.subtitle { font-family: Arial, Helvetica, sans-serif; font-size: 18px; fill:#475569; }
+.label { font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight:600; fill:#111827; }
+.small { font-family: Arial, Helvetica, sans-serif; font-size: 14px; fill:#334155; }
+.box { fill:#f8fafc; stroke:#334155; stroke-width:2; rx:16; }
+.core { fill:#eef2ff; stroke:#3730a3; stroke-width:3; rx:22; }
+.good { fill:#ecfdf5; stroke:#047857; stroke-width:2; rx:16; }
+.bad { fill:#fff1f2; stroke:#be123c; stroke-width:2; rx:16; }
+.neutral { fill:#fefce8; stroke:#a16207; stroke-width:2; rx:16; }
+.arrow { stroke:#334155; stroke-width:2.5; fill:none; marker-end:url(#arrow); }
+.line { stroke:#64748b; stroke-width:2; fill:none; }
+</style>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M2,2 L10,6 L2,10 Z" fill="#334155"/></marker>
+</defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="700" y="55" text-anchor="middle" class="title">Fig-003 — Function Tunnel Taxonomy</text>
+<rect x="555" y="105" width="290" height="75" class="core"/>
+<text x="700.0" y="134.5" text-anchor="middle" class="label">Function Tunnel</text>
+<text x="700.0" y="164.5" text-anchor="middle" class="small">Level-I classification</text>
+<path d="M700 180 C700 220, 200 220, 200 255" class="line"/>
+<rect x="90" y="255" width="240" height="82" class="box"/>
+<text x="210.0" y="288.0" text-anchor="middle" class="label">Natural</text>
+<text x="210.0" y="318.0" text-anchor="middle" class="small">rivers • lightning</text>
+<path d="M700 180 C700 220, 510 220, 510 255" class="line"/>
+<rect x="400" y="255" width="240" height="82" class="box"/>
+<text x="520.0" y="288.0" text-anchor="middle" class="label">Biological</text>
+<text x="520.0" y="318.0" text-anchor="middle" class="small">metabolism • niches</text>
+<path d="M700 180 C700 220, 820 220, 820 255" class="line"/>
+<rect x="710" y="255" width="240" height="82" class="box"/>
+<text x="830.0" y="288.0" text-anchor="middle" class="label">Cognitive</text>
+<text x="830.0" y="318.0" text-anchor="middle" class="small">habits • attention</text>
+<path d="M700 180 C700 220, 1130 220, 1130 255" class="line"/>
+<rect x="1020" y="255" width="240" height="82" class="box"/>
+<text x="1140.0" y="288.0" text-anchor="middle" class="label">Educational</text>
+<text x="1140.0" y="318.0" text-anchor="middle" class="small">curriculum • skills</text>
+<path d="M700 180 C700 370, 200 370, 200 405" class="line"/>
+<rect x="90" y="405" width="240" height="82" class="box"/>
+<text x="210.0" y="438.0" text-anchor="middle" class="label">Economic</text>
+<text x="210.0" y="468.0" text-anchor="middle" class="small">supply chains • capital</text>
+<path d="M700 180 C700 370, 510 370, 510 405" class="line"/>
+<rect x="400" y="405" width="240" height="82" class="box"/>
+<text x="520.0" y="438.0" text-anchor="middle" class="label">Technological</text>
+<text x="520.0" y="468.0" text-anchor="middle" class="small">standards • APIs</text>
+<path d="M700 180 C700 370, 820 370, 820 405" class="line"/>
+<rect x="710" y="405" width="240" height="82" class="box"/>
+<text x="830.0" y="438.0" text-anchor="middle" class="label">Social</text>
+<text x="830.0" y="468.0" text-anchor="middle" class="small">norms • networks</text>
+<path d="M700 180 C700 370, 1130 370, 1130 405" class="line"/>
+<rect x="1020" y="405" width="240" height="82" class="box"/>
+<text x="1140.0" y="438.0" text-anchor="middle" class="label">Political</text>
+<text x="1140.0" y="468.0" text-anchor="middle" class="small">opinion • institutions</text>
+<path d="M700 180 C700 520, 200 520, 200 555" class="line"/>
+<rect x="90" y="555" width="240" height="82" class="box"/>
+<text x="210.0" y="588.0" text-anchor="middle" class="label">Military</text>
+<text x="210.0" y="618.0" text-anchor="middle" class="small">escalation • logistics</text>
+<path d="M700 180 C700 520, 510 520, 510 555" class="line"/>
+<rect x="400" y="555" width="240" height="82" class="box"/>
+<text x="520.0" y="588.0" text-anchor="middle" class="label">Civilizational</text>
+<text x="520.0" y="618.0" text-anchor="middle" class="small">science • law</text>
+<path d="M700 180 C700 520, 820 520, 820 555" class="line"/>
+<rect x="710" y="555" width="240" height="82" class="bad"/>
+<text x="830.0" y="588.0" text-anchor="middle" class="label">Control / Hijacking</text>
+<text x="830.0" y="618.0" text-anchor="middle" class="small">addiction • manipulation</text>
+<text x="700" y="835" text-anchor="middle" class="subtitle">Taxonomy supports discovery, representation, metrics, governance, and future Delta studies.</text>
+</svg>
