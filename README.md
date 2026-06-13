@@ -41,6 +41,14 @@ As Artificial Intelligence becomes increasingly capable of discovering and shapi
 
 ---
 
+Function Tunnels are not proposed as inherently beneficial or harmful.
+
+They are structural phenomena that emerge naturally across complex systems.
+
+See: [FUNCTION-TUNNEL-NEUTRALITY-PRINCIPLE.md](./docs/003-FUNCTION-TUNNEL-NEUTRALITY-PRINCIPLE.md)
+
+---
+
 # Core Thesis
 
 ---
